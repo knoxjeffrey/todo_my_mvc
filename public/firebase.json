@@ -1,0 +1,9 @@
+{
+  "firebase": "todo-my-mvc",
+  "public": "./",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
